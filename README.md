@@ -1,3 +1,3 @@
 # web-server-project
 test 123
--- my first project (a web server) that explores microservices architecture and containerisation using docker for local deployment. aimed at project completion within a week with little previous exposure to technologies used inside the project. ai assistance is limited and only a little help is used with the ai replaceable part of the project so i can get more hands on experience.
+-- my first project (a web server) that explores microservices architecture and containerisation using docker for local deployment. aimed at project completion within a week with little previous exposure to technologies used inside the project apart from mysql and python that was done during my 11th and 12th grades. ai assistance is taken but only for the coding part as the deadline is short. ill be using flask, fastapi, mysql, python, docker and nginx in the project.
